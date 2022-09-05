@@ -54,6 +54,7 @@ void Main(double k1, double b1 , double k2, double b2)
     var result = (x, y);
     return result;
 }
+
 int k1 = Prompt("Определить коффециент k1 ");
 int b1 = Prompt("Определить коффециент b1 ");
 int k2 = Prompt("Определить коффециент k2 ");
